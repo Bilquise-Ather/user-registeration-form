@@ -6,7 +6,7 @@ const Home = () => {
     <div className="center-div">
       <h3>Welcome to home page✌</h3>
       <p>
-        <Link to="/">Go Back</Link>
+        <Link to="/login">Go Back</Link>
       </p>
     </div>
   );
